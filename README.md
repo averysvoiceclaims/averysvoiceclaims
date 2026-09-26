@@ -3,7 +3,8 @@
 <p align="center"> 𝓓𝓞 𝓝𝓞𝓣 𝓢𝓣𝓔𝓐𝓛 𝓣𝓗𝓔𝓜
 
 
-<p align="center"> <img width="1920" height="232" alt="image" src="https://github.com/user-attachments/assets/e0006236-7882-4b5f-a839-6f62fd0b9296" />
+<p align="center"> <img width="633" height="356" alt="image" src="https://github.com/user-attachments/assets/6acc65e9-87a4-4379-9464-808518727630" />
+
 
 
 
